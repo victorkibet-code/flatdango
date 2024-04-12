@@ -1,4 +1,5 @@
 # flatdango
+by Victor Kibet
 Requirements
 For this project, you must:
 
